@@ -1,0 +1,15 @@
+C:\Users\tojoa\Desktop\EjerciciosDOO\ejerciciosUML\ejerciciosUML\bin\Debug\net8.0\ejerciciosUML.exe
+C:\Users\tojoa\Desktop\EjerciciosDOO\ejerciciosUML\ejerciciosUML\bin\Debug\net8.0\ejerciciosUML.deps.json
+C:\Users\tojoa\Desktop\EjerciciosDOO\ejerciciosUML\ejerciciosUML\bin\Debug\net8.0\ejerciciosUML.runtimeconfig.json
+C:\Users\tojoa\Desktop\EjerciciosDOO\ejerciciosUML\ejerciciosUML\bin\Debug\net8.0\ejerciciosUML.dll
+C:\Users\tojoa\Desktop\EjerciciosDOO\ejerciciosUML\ejerciciosUML\bin\Debug\net8.0\ejerciciosUML.pdb
+C:\Users\tojoa\Desktop\EjerciciosDOO\ejerciciosUML\ejerciciosUML\obj\Debug\net8.0\ejerciciosUML.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tojoa\Desktop\EjerciciosDOO\ejerciciosUML\ejerciciosUML\obj\Debug\net8.0\ejerciciosUML.AssemblyInfoInputs.cache
+C:\Users\tojoa\Desktop\EjerciciosDOO\ejerciciosUML\ejerciciosUML\obj\Debug\net8.0\ejerciciosUML.AssemblyInfo.cs
+C:\Users\tojoa\Desktop\EjerciciosDOO\ejerciciosUML\ejerciciosUML\obj\Debug\net8.0\ejerciciosUML.csproj.CoreCompileInputs.cache
+C:\Users\tojoa\Desktop\EjerciciosDOO\ejerciciosUML\ejerciciosUML\obj\Debug\net8.0\ejerciciosUML.sourcelink.json
+C:\Users\tojoa\Desktop\EjerciciosDOO\ejerciciosUML\ejerciciosUML\obj\Debug\net8.0\ejerciciosUML.dll
+C:\Users\tojoa\Desktop\EjerciciosDOO\ejerciciosUML\ejerciciosUML\obj\Debug\net8.0\refint\ejerciciosUML.dll
+C:\Users\tojoa\Desktop\EjerciciosDOO\ejerciciosUML\ejerciciosUML\obj\Debug\net8.0\ejerciciosUML.pdb
+C:\Users\tojoa\Desktop\EjerciciosDOO\ejerciciosUML\ejerciciosUML\obj\Debug\net8.0\ejerciciosUML.genruntimeconfig.cache
+C:\Users\tojoa\Desktop\EjerciciosDOO\ejerciciosUML\ejerciciosUML\obj\Debug\net8.0\ref\ejerciciosUML.dll
