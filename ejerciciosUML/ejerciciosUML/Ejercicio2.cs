@@ -3,7 +3,7 @@
 namespace Ejercico2{
     class Ejercicio2
     {
-        public static void Main(String[] args) 
+        public static void Main2(String[] args) 
         {
             
             Avion avion = new Avion();
