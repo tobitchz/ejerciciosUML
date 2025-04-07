@@ -6,7 +6,7 @@ namespace ejercicio3
     class ejercicio3
     {
 
-        public static void Main(String[] args)
+        public static void Main3(String[] args)
         {
             Gato gato = new Gato();
             Perro perro = new Perro();
@@ -29,7 +29,7 @@ namespace ejercicio3
             vaca.edad = 1;
             vaca.especie = "vaca";
 
-            Console.WriteLine($"El {vaca.especie} tiene {vaca.edad} anios y hace: ");
+            Console.WriteLine($"El {vaca.especie} tiene {vaca.edad} anio y hace: ");
             vaca.LoQueSeaQueHaganLasVacas();
        
 
