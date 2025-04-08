@@ -8,12 +8,14 @@ namespace ejerciciosUML {
 
 class ejecicio5
     {
-        public static void Main(string[] args)
+        public static void Main5(string[] args)
         {
             Biblioteca biblioteca = new Biblioteca();
 
             biblioteca.AgregarLibro();
             biblioteca.BuscarLibro();
+            biblioteca.PrestarLibros();
+            biblioteca.DevolverLibro();
         }
 
         public class Biblioteca
