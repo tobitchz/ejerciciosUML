@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Ejercicio1
+namespace ejerciciosUML
 {
     class Program
     {

@@ -9,7 +9,7 @@ namespace ejerciciosUML
 {
     class Ejercicio6
     {
-        public static void Main(String[] args)
+        public static void Main6(String[] args)
         {
             CajeroAutomatico cajero = new CajeroAutomatico();
 
