@@ -9,7 +9,7 @@ namespace ejerciciosUML
     class ejercicio4
     {
 
-        public static void Main(String[] args) 
+        public static void Main4(String[] args) 
         { 
             Libro libro = new Libro();
 
@@ -18,7 +18,7 @@ namespace ejerciciosUML
             libro.anio = 1949;
             libro.genero = "Ficcion distopica";
 
-            Console.WriteLine($"hoy vamos a leer un libro de {libro.genero}. El libro es: {libro.titulo}, escrito por {libro.autor} y publicado en {libro.anio}");
+            Console.WriteLine($"Hoy vamos a leer un libro de {libro.genero}. El libro es: {libro.titulo}, escrito por {libro.autor} y publicado en {libro.anio}");
             libro.Abrir();
 
             libro.Leer();

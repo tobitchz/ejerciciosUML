@@ -78,3 +78,8 @@ namespace Ejercico2{
 }
 
 
+/*
+ Define una clase llamada "Vehículo" con atributos como modelo, marca, año,
+número de serie, etc. Incluye métodos para arrancar, detener, acelerar y frenar, que a
+su vez sea clase padre de 3 clases más.
+*/
